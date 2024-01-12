@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hey, I'm Manibh Sain 👋
 
 ## AWS Certified Solutions Architect Associate | AWS Certified Developer
