@@ -1,16 +1,32 @@
 ### Hi there 👋
+# Hey, I'm Manibh Sain 👋
 
-<!--
-**Manibh1/Manibh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AWS Certified Solutions Architect Associate | AWS Certified Developer
 
-Here are some ideas to get you started:
+Welcome to my cloud playground! 🚀 I'm passionate about cloud technologies and their transformative impact on the way we build and scale applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 AWS Certified Solutions Architect Associate and AWS Certified Developer.
+- 🌐 Exploring the endless possibilities of cloud computing.
+- 🎓 Digital Evangelist at StatusNeo
+
+
+## ☁️ Cloud Technologies
+
+### AWS
+![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS-SAA-yellow?style=flat&logo=amazon-aws)
+![AWS Certified Developer](https://img.shields.io/badge/AWS-Developer-orange?style=flat&logo=amazon-aws)
+
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://in.linkedin.com/in/manibh-sain-726507180)
+
+
+
+## 🌟 Let's Talk Cloud
+
+Excited about cloud computing or want to collaborate on cloud projects? Feel free to reach out! Let's connect, learn, and build amazing things together.
+
+Happy coding! ☁️🚀
